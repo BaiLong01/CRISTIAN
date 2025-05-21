@@ -1,0 +1,13 @@
+{
+  "name": "exercicio-1",
+  "version": "1.0.0",
+  "description": "Este proyecto consiste en un formulario de contacto desarrollado con HTML y Bootstrap 5, que permite a los usuarios enviar su nombre, correo electrónico y un mensaje.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
