@@ -46,16 +46,16 @@
                 if (!form.checkValidity()) {
                     event.preventDefault();
                     event.stopPropagation();
+                    form.classList.add('was-validated');
                 } else {
                     event.preventDefault();
-                    document.getElementById('mensajeExito').classList.remove('d-none');
-                    form.classList.remove('was-validated');
                     form.reset();
+                    form.classList.remove('was-validated'); // <-- Mueve esto aquí
+                    document.getElementById('mensajeExito').classList.remove('d-none');
                     setTimeout(() => {
                         document.getElementById('mensajeExito').classList.add('d-none');
                     }, 3000);
                 }
-                form.classList.add('was-validated');
             }, false);
         })();
     </script>
