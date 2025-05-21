@@ -1,5 +1,13 @@
 # Pruebas automatizadas del Formulario de Contacto
 
+Enlaces de interés de GitHub:
+
+https://github.com/BaiLong01/CRISTIAN
+
+Dentro podrás encontrar las dos ramas de ambos ejercicios llamadas exercicio-1 y exercicio-2 respectivamente.
+
+# Pruebas automatizadas del Formulario de Contacto
+
 Este proyecto contiene pruebas automatizadas para el formulario de contacto desarrollado en el ejercicio anterior.
 
 ## Herramienta de prueba utilizada
