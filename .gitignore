@@ -1,0 +1,28 @@
+# Archivos y carpetas de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de editores
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de XAMPP y bases de datos locales
+*.sql
+*.sqlite
+*.db
+
+# Node.js (si llegas a usar npm)
+node_modules/
+
+# Archivos de entorno
+.env
+.env.*
+
+# Otros archivos personales
+*.local
