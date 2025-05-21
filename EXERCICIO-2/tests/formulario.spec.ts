@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-const URL = 'http://localhost/CRISTIAN/EXERCICIO-1/index.html'; // Ajusta la URL si es necesario
+const URL = 'http://localhost/CRISTIAN/EXERCICIO-2/index.html';
 
 test.describe('Formulario de Contacto', () => {
     test('debe enviar el formulario correctamente y mostrar mensaje de éxito', async ({ page }) => {
