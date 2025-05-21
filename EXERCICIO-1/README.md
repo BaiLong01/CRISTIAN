@@ -1,3 +1,14 @@
+# Enlaces de interés para acceder al GitHub
+
+https://github.com/BaiLong01/CRISTIAN
+
+Dentro de ese repositorio estarán ambas ramas de los ejercicios llamadas:
+
+CRISTIAN/
+│
+├── exercicio-1      # Ejercicio con el formulario y su README.md
+├── exercicio-2      # Ejercicio con el formulario, el script de playwright, su README.md y demás.
+
 # Formulario de Contacto con Bootstrap 5
 
 Este proyecto consiste en un formulario de contacto desarrollado con HTML y Bootstrap 5, que permite a los usuarios enviar su nombre, correo electrónico y un mensaje.
